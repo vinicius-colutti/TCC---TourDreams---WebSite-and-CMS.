@@ -1,0 +1,225 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+header {
+  width: 100%;
+  height: 300px;
+   -webkit-box-shadow: 0px 10px 5px -5px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 10px 5px -5px rgba(0,0,0,0.75);
+box-shadow: 0px 10px 5px -5px rgba(0,0,0,0.75);
+ }
+  header #principal_header {
+    width: 1400px;
+    height: 300px;
+    margin: auto;
+
+
+
+   }
+    header #principal_header #logo_cms {
+      width: 300px;
+      height: 300px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      position: absolute;
+      margin-left: 5px;
+      margin-top: -50px;
+     }
+      header #principal_header #logo_cms img {
+        width: 300px;
+        height: 300px; }
+
+p {
+  font-family: 300px; }
+
+#div_seja_bem_vindo{
+  width: 300px;
+  height: 25px;
+  position: absolute;
+  margin-left: 50px;
+  margin-top: 230px;
+
+}
+#div_seja_bem_vindo p{
+  font-family: Calibri;
+  font-size: 18px;
+  color: #000;
+  margin-bottom: 10px;
+  opacity: 0.8;
+  font-style: italic;
+
+}
+#div_seja_bem_vindo a{
+  font-family: Calibri;
+  font-size: 20px;
+  color: #4682B4;
+  text-decoration: none;
+
+
+
+}
+#adm_usuarios{
+  width:200px;
+  height: 200px;
+  position: absolute;
+  background-color: #000;
+  margin-left: 500px;
+  margin-top: 50px;
+
+}
+#cores_aspectos{
+  width:200px;
+  height: 200px;
+  position: absolute;
+  background-color: #000;
+  margin-left: 800px;
+  margin-top: 50px;
+
+
+
+}
+#cores_aspectos img, #adm_usuarios img, #adm_estatisticas img{
+  width: 200px;
+  height: 200px;
+
+
+}
+#cores_aspectos:hover, #adm_usuarios:hover, #adm_estatisticas:hover{
+  border-bottom: 4px solid #000;
+
+
+
+}
+#adm_estatisticas{
+  width:200px;
+  height: 200px;
+  position: absolute;
+  background-color: #000;
+  margin-left: 1100px;
+  margin-top: 50px;
+
+
+}
+#section_home{
+  margin: auto;
+  width: 1200px;
+  margin-top: 20px;
+  height: 700px;
+  overflow: hidden;
+
+
+
+}
+#principal_home{
+  width: 1200px;
+  height: 700px;
+  position: absolute;
+  margin-top: 200px;
+  margin: auto;
+
+}
+.options{
+  width:250px;
+  height: 250px;
+  float: left;
+  margin-top: 35px;
+  margin-left: 130px;
+  margin-bottom: 90px;
+
+}
+.options img{
+  width: 200px;
+  height: 200px;
+border:4px solid #999;
+transition:1s;
+border-radius: 5px;
+}
+.options:hover img{
+
+  border:4px solid #000;
+  transition:1s;
+  background-color: #DCDCDC;
+
+
+
+}
+footer{
+  width: 100%;
+  height: 150px;
+  background-color: red;
+
+
+}
+#principal_footer{
+  width: 1790px;
+  height: 160px;
+  margin: auto;
+  background-color: #d2d3e2;
+
+
+}
+#logo_td{
+  width: 150px;
+  height: 150px;
+  margin-left: 820px;
+
+  position: absolute;
+
+
+}
+
+#logo_td img{
+  width: 150px;
+  height: 150px;
+
+
+
+}
+#contate_zto{
+  width: 400px;
+  height: 30px;
+  margin-left: 700px;
+  margin-top: 130px;
+
+  position: absolute;
+
+
+}
+#contate_zto p{
+  font-family: Calibri;
+  font-size: 17px;
+  color: #000;
+  text-align: center;
+
+}
+span{
+font-family:Calibri;
+font-size: 20px;
+
+
+}
+
+
+
+
+//SOBRE EMPRESA
+.section_sobre_a_empresa{
+  margin: auto;
+  width: 1200px;
+  margin-top: 20px;
+  height: 700px;
+  overflow: hidden;
+  background-color: green;
+
+
+}
+.PORRA{
+  width: 1500px;
+  height: 700px;
+  background-color: red;
+  position: absolute;
+
+
+
+}

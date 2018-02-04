@@ -1,0 +1,2228 @@
+* {
+  margin: 0;
+  padding: 0;
+ }
+
+header {
+  width: 100%;
+  height: 300px;
+   -webkit-box-shadow: 0px 10px 5px -5px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 10px 5px -5px rgba(0,0,0,0.75);
+box-shadow: 0px 10px 5px -5px rgba(0,0,0,0.75);
+ }
+  header #principal_header {
+    width: 1400px;
+    height: 300px;
+    margin: auto;
+
+
+
+   }
+    header #principal_header #logo_cms {
+      width: 300px;
+      height: 300px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      position: absolute;
+      margin-left: 5px;
+      margin-top: -50px;
+     }
+      header #principal_header #logo_cms img {
+        width: 300px;
+        height: 300px; }
+
+p {
+  font-family: 300px; }
+
+#div_seja_bem_vindo{
+  width: 300px;
+  height: 25px;
+  position: absolute;
+  margin-left: 50px;
+  margin-top: 230px;
+
+}
+#div_seja_bem_vindo p{
+  font-family: Calibri;
+  font-size: 18px;
+  color: #000;
+  margin-bottom: 10px;
+  opacity: 0.8;
+  font-style: italic;
+
+}
+
+#div_seja_bem_vindo a{
+  font-family: Calibri;
+  font-size: 20px;
+  color: #4682B4;
+  text-decoration: none;
+
+
+
+}
+#adm_usuarios{
+  width:200px;
+  height: 200px;
+  position: absolute;
+  background-color: #000;
+  margin-left: 500px;
+  margin-top: 50px;
+
+}
+#cores_aspectos{
+  width:200px;
+  height: 200px;
+  position: absolute;
+  background-color: #000;
+  margin-left: 800px;
+  margin-top: 50px;
+
+
+
+}
+.cor_principal_cores_hotel{
+width: 200px;
+height: 100px;
+margin-left: 300px;
+position: absolute;
+margin-top: 70px;
+
+}
+.cor_principal_cores_hotel h1{
+font-family: Calibri;
+color: #000;
+opacity: 0.7;
+font-size: 18px;
+padding-top: 40px;
+
+
+}
+.cor_principal_cores_hotel_id{
+width: 100px;
+height: 40px;
+background-color: red;
+float: left;
+position: absolute;
+margin-left: 90px;
+margin-top: -30px;
+border: 1px solid #000;
+
+
+
+}
+.cor_principal_cores_rodape{
+width: 200px;
+height: 100px;
+margin-left: 300px;
+position: absolute;
+margin-top: 670px;
+
+}
+.cor_principal_cores_rodape h1{
+font-family: Calibri;
+color: #000;
+opacity: 0.7;
+font-size: 18px;
+padding-top: 40px;
+
+
+}
+.cor_principal_cores_rodape_id{
+width: 100px;
+height: 40px;
+
+float: left;
+position: absolute;
+margin-left: 90px;
+margin-top: -30px;
+border: 1px solid #000;
+
+
+
+}
+.img_atual_template{
+width: 300px;
+height: 50px;
+
+position: absolute;
+margin-top: 1070px;
+margin-left: 300px;
+
+
+}
+
+.img_atual_template h1{
+font-family: Calibri;
+font-size: 18px;
+color: #000;
+opacity: 0.7;
+padding-top: 15px;
+
+
+
+
+}
+.img_atual_template_id{
+width: 70px;
+height: 50px;
+background-color: #000;
+position: absolute;
+margin-left: 130px;
+margin-top: -37px;
+
+}
+.img_atual_template_id img{
+  width: 70px;
+  height: 50px;
+  border: 1px solid #000;
+
+
+
+}
+#cores_aspectos img, #adm_usuarios img, #adm_estatisticas img{
+  width: 200px;
+  height: 200px;
+
+
+}
+#cores_aspectos:hover, #adm_usuarios:hover, #adm_estatisticas:hover{
+  border-bottom: 4px solid #000;
+
+
+
+}
+#adm_estatisticas{
+  width:200px;
+  height: 200px;
+  position: absolute;
+  background-color: #000;
+  margin-left: 1100px;
+  margin-top: 50px;
+
+
+}
+#section_home{
+  width: 1200px;
+  height: 700px;
+
+}
+#principal_home{
+  width: 300px;
+  height: 1000px;
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 0px;
+  overflow: auto;
+
+}
+.options{
+  width:180px;
+  height: 180px;
+  float: left;
+  margin-top: 65px;
+  margin-left: 50px;
+  margin-bottom: 90px;
+
+}
+.options img{
+  width: 180px;
+  height: 180px;
+border:4px solid #999;
+transition:1s;
+border-radius: 5px;
+}
+.options:hover img{
+
+  border:4px solid #000;
+  transition:1s;
+  background-color: #DCDCDC;
+
+
+
+}
+
+#logo_td{
+  width: 150px;
+  height: 150px;
+  margin-left: 820px;
+
+  position: absolute;
+
+
+}
+
+#logo_td img{
+  width: 150px;
+  height: 150px;
+
+
+
+}
+#contate_zto{
+  width: 400px;
+  height: 30px;
+  margin-left: 700px;
+  margin-top: 130px;
+
+  position: absolute;
+
+
+}
+#contate_zto p{
+  font-family: Calibri;
+  font-size: 17px;
+  color: #000;
+  text-align: center;
+
+}
+span{
+font-family:Calibri;
+font-size: 20px;
+
+
+}
+/*FORMATAÇÃO DA PÁGINA ADMINISTRAR SOBRE A EMPRESA*/
+
+#section_empresa{
+  margin: auto;
+  width: 1200px;
+  margin-top: 20px;
+  height: 5000px;
+
+}
+p.test1 {
+
+    width: 200px;
+    height: 200px;
+    /*border: 1px solid #000000;*/
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+#principal_sobre_empresa{
+  width: 1200px;
+  margin: auto;
+  height: 5000px;
+
+
+
+}
+#div_save_imagem_slide{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  margin-left: 610px;
+  margin-top: 4015px;
+
+
+}
+#div_save_imagem_slide input{
+width: 50px;
+height: 50px;
+background-image: url(../imagens/save_icon.png);
+border: 0;
+background-color: transparent;
+
+
+}
+#div_save_imagem_slide_ca{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  margin-left: 730px;
+  margin-top: 970px;
+
+
+}
+#div_save_imagem_slide_ca input{
+width: 50px;
+height: 50px;
+background-image: url(../imagens/save_icon.png);
+border: 0;
+background-color: transparent;
+
+
+}
+
+#div_save_promocao{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  margin-left: 830px;
+  margin-top: 50px;
+
+}
+#div_save_promocao input{
+  width: 50px;
+  height: 50px;
+  background-image: url(../imagens/save_icon.png);
+  border: 0;
+  background-color: transparent;
+
+
+
+}
+#sobre_nossa_empresa{
+  width: 800px;
+  height: 500px;
+  margin-left: 200px;
+  float: left;
+  margin-bottom: 70px;
+
+}
+
+.txt_sobre_nosssa_empresa{
+width: 800px;
+height: 70px;
+
+}
+
+.txt_sobre_nosssa_empresa p{
+  font-family: Calibri;
+  color: #000;
+  font-size: 50px;
+  opacity: 0.7;
+  text-align: center;
+
+}
+#txt_sobre_nosssa_empresa_slider{
+width: 800px;
+height: 70px;
+margin-bottom: 40px;
+border-top:1px solid #708090;
+
+}
+
+#txt_sobre_nosssa_empresa_slider p{
+  font-family: Calibri;
+  color: #000;
+  font-size: 50px;
+  opacity: 0.7;
+  text-align: center;
+
+
+
+}
+.txt_sobre_nosssa_empresa textarea{
+  resize: none;
+  border: 1px black solid;
+  font-size: 30px;
+  font-family: Calibri;
+  width: 800px;
+  height: 420px;
+  overflow: auto;
+  background-color: #DCDCDC;
+
+
+
+
+
+}
+input:focus, button:focus, textarea:focus, select:focus {
+   box-shadow: 0 0 0 0;
+   border: 1;
+   outline: 0;
+}
+@import url('http://fonts.googleapis.com/css?family=Open+Sans');
+p, ol, #message {
+     font-family:'Open Sans';
+}
+#multiple_upload {
+      position:relative;
+      margin-top: 20px;
+}
+#uploadChange {
+      position:absolute;
+      top:2px;
+      left:0;
+      opacity:0.01;
+      border:none;
+      width:355px;
+      padding:10px;
+      z-index:1;
+      cursor:pointer
+}
+#message {
+      border:2px solid #ccc;
+      background:#fff;
+      padding:10px;
+      width:250px;
+      float:left;
+      margin:4px;
+      overflow:hidden;
+      color: #333;
+}
+#botao {
+      border:1px solid #808080;
+      background:#A9A9A9;
+      color:#ffffff;
+      font-family:'Open Sans';
+      font-size:15px;
+      font-weight:bold;
+      padding:12px 28px;
+      margin:4px 8px;
+}
+#multiple_upload:hover > #botao {
+      background:#696969;
+      border-color:#696969;
+}
+#lista ol {
+      margin-left: -16px;
+}
+#lista ol li {
+     border-bottom:1px solid #eee;
+     padding:10px;
+    display:block;
+    clear:left;
+    margin-bottom:2px;
+}
+#lista ol li.item_grey{
+     background:#fff;
+}
+a.remove {
+     text-decoration:none;
+     color:#708090;
+     display:block;
+     font-size: 16px;
+     width:20px;
+     float:right;
+     font-weight:bold;
+}
+a.remove:hover {
+    color:#FF0000;
+}
+
+img.item {
+    max-width: 100%;
+    max-height: 100%;
+
+}
+
+.box-images {
+    height: 30px;
+    width: 30px;
+    background-color: #eee;
+    border:1px solid #eee;
+    margin-bottom:15px;
+
+    /* Centralizando imagens */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float:left;
+    margin:0 10px 20px 0;
+}
+
+#select_sobre{
+  width: 1200px;
+  height: 700px;
+  float: left;
+  margin-bottom: 70px;
+  overflow: auto;
+  margin-top: 40px;
+
+}
+#txt_select_sobre{
+  width: 700px;
+  height: 30px;
+  float: left;
+  margin-left: 253px;
+  margin-bottom: 20px;
+}
+#txt_select_sobre p{
+  font-family: Calibri;
+  font-size:40px;
+  opacity: 0.8;
+  text-align: center;
+
+}
+.textos_sobre{
+  width: 210px;
+  height: 200px;
+  float: left;
+  margin-left: 30px;
+  margin-top: 10px;
+  border-right: 2px solid #000;
+
+}
+
+.textos_sobre p{
+  font-family: Calibri;
+  font-size: 24px;
+  color: #000;
+  text-align: center;
+  opacity: 0.8;
+  font-style: italic;
+
+
+
+}
+.textos_opc{
+  width: 190px;
+  height: 200px;
+  float: left;
+  margin-left: 30px;
+  background-color: #fff;
+  float: left;
+  margin-top: 10px;
+
+
+}
+
+.opc_txt{
+  width: 85px;
+  height: 85px;
+  margin-left: 10px;
+  float: left;
+  margin-bottom: 1px;
+  margin-top: 10px;
+
+
+}
+.opc_txt img{
+  width: 50px;
+  height: 50px;
+
+
+
+}
+
+#separatoria_sobre{
+width: 1160px;
+float: left;
+height: 4px;
+background-color: rgba(0, 0, 0, 0.6);
+margin-top: 10px;
+margin-left: 27px;
+
+}
+#div_btn_salvar{
+  width: 803px;
+  height: 100px;
+  float: left;
+  background-color: blue;
+  margin-left: 198px;
+  margin-bottom: 90px;
+
+}
+#btn_salvar_sobre{
+    width: 803px;
+    height: 100px;
+    border: 0;
+    font-family: Calibri;
+    font-size: 40px;
+    background-color: #708090;
+    transition: 1s;
+
+
+}
+#btn_salvar_sobre:hover{
+  color:#fff;
+  transition: 1s;
+
+
+
+}
+
+#select_imagens_sobre{
+  width: 800px;
+  height: 500px;
+  float: left;
+  margin-bottom: 30px;
+  margin-left: 200px;
+  overflow: auto;
+
+
+
+
+}
+
+.img_sobre_a_empresa{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  float: left;
+  margin-top: 20px;
+  margin-left:50px;
+  -webkit-box-shadow: -1px -1px 5px 2px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px -1px 5px 2px rgba(0,0,0,0.75);
+box-shadow: -1px -1px 5px 2px rgba(0,0,0,0.75);
+
+}
+.img_sobre_a_empresa img{
+  width: 200px;
+  height: 200px;
+
+
+
+}
+.excluir_img_sobre{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  background-color: #000;
+  opacity: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: 1s;
+
+
+}
+.excluir_img_sobre img{
+  width: 150px;
+  height: 150px;
+  margin-left: 25px;
+  margin-top: 30px;
+  opacity: 0.7;
+
+
+
+}
+
+.img_sobre_a_empresa:hover .excluir_img_sobre{
+  opacity: 1;
+  transition: 1s;
+
+
+
+}
+#menu_ancora{
+position: fixed;
+width: 290px;
+height: 300px;
+background-color:transparent;
+
+
+
+}
+#menu_ancora a{
+  text-decoration: none;
+  font-size: 20px;
+  font-family: Calibri;
+  opacity: 0.7;
+  color: #000;
+  border: 1px solid #000;
+  border-radius: 10px;
+
+  padding-left: 20px;
+  padding-right: 20px;
+
+
+}
+#menu_ancora a:hover{
+  font-size: 25px;
+  transition: 0.2s;
+  opacity: 1;
+
+
+
+}
+.icon_menu_ancora{
+  width: 300px;
+  height: 50px;
+margin-top: 8px;
+margin-bottom: -30px;
+
+
+
+}
+
+/*FORMATAÇÃO DA PÁGINA DE GERENCIAR HOTÉIS*/
+
+#section_hoteis{
+  margin: auto;
+  width: 1200px;
+  margin-top: 20px;
+  height: 600px;
+
+}
+#principal_gerenciar_hoteis{
+  width: 1200px;
+  height: 600px;
+  margin-left: 120px;
+
+
+
+}
+#txt_hoteis_cadastrados{
+  width: 800px;
+  height: 40px;
+  margin: auto;
+  margin-bottom: 100px;
+}
+#txt_hoteis_cadastrados p{
+  font-family: Calibri;
+  font-size: 40px;
+  color: #000;
+  opacity: 1;
+  text-align: center;
+
+
+
+}
+#principal_select_hoteis_cadastrados{
+  width: 1200px;
+  height: 600px;
+  margin: auto;
+
+  overflow: auto;
+
+
+}
+
+#select_hotel_cadastrado{
+width: 1200px;
+height: 80px;
+margin: auto;
+margin-bottom: 60px;
+border-bottom: 2px #000 dotted;
+
+
+
+
+}
+.nome_hotel{
+width: 232px;
+height: 50px;
+float: left;
+margin-left: 20px;
+margin-top: 10px;
+overflow: auto;
+
+}
+.nome_hotel p{
+  font-family: Calibri;
+  font-size: 15px;
+  color: #000;
+  opacity: 0.8;
+  text-align:center;
+  margin-top: 5px;
+  font-style: italic;
+
+
+}
+
+.nome_hotel_email{
+  width: 352px;
+  height: 50px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 10px;
+  overflow: auto;
+
+
+}
+.nome_hotel_email p{
+  font-family: Calibri;
+  font-size: 15px;
+  color: #000;
+  opacity: 0.8;
+  text-align:center;
+  margin-top: 5px;
+  font-style: italic;
+
+
+}
+.nome_hotel_id{
+width: 50px;
+height: 50px;
+float: left;
+margin-left: 20px;
+margin-top: 10px;
+
+}
+.nome_hotel_id p{
+  font-family: Calibri;
+  font-size: 22px;
+  color: #000;
+  opacity: 1;
+  text-align:center;
+  margin-top: 5px;
+  font-style: italic;
+
+
+}
+#opt_hoteis{
+  width: 400px;
+  height: 50px;
+
+  margin-left: 20px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 10px;
+
+
+
+}
+#opt_usuarios{
+  width: 100px;
+  height: 50px;
+  margin-left: 40px;
+  float: left;
+
+  margin-top: 10px;
+
+
+
+}
+.opcoes_hotel{
+  width: 110px;
+  height: 50px;
+
+  float: left;
+  margin-left: 20px;
+
+
+}
+.opcoes_hotel a{
+  text-decoration: none;
+
+
+
+}
+
+.aceitar_hotel_a{
+text-decoration: none;
+font-size: 30px;
+font-family: Calibri;
+text-align: center;
+color: #2E8B57;
+
+
+
+}
+#aceitar_hotel_a{
+text-decoration: none;
+font-size: 30px;
+font-family: Calibri;
+text-align: center;
+color: #2E8B57;
+
+
+
+}
+
+.recusar_hotel{
+text-decoration: none;
+font-size: 30px;
+font-family: Calibri;
+text-align: center;
+color: #B22222;
+
+
+
+}
+#recusar_hotel_a{
+text-decoration: none;
+
+}
+.detalhes_hotel{
+text-decoration: none;
+font-size: 25px;
+font-family: Calibri;
+text-align: center;
+color: #000;
+
+
+
+}
+#detalhes_hotel_a{
+text-decoration: none;
+
+}
+
+
+/*FORMATAÇÃO DA PÁGINA DE GERENCIAR CLIENTES*/
+
+#section_gerenciar_clientes{
+  margin: auto;
+  width: 1200px;
+  margin-top: 20px;
+  height: 600px;
+
+
+
+}
+#principal_gerenciar_clientes{
+  width: 1200px;
+  height: 600px;
+  margin-left: 120px;
+
+
+
+
+}
+#txt_clientes_cadastrados{
+  width: 800px;
+  height: 40px;
+  margin: auto;
+  margin-bottom: 100px;
+}
+#txt_clientes_cadastrados p{
+  font-family: Calibri;
+  font-size: 40px;
+  color: #000;
+  opacity: 1;
+  text-align: center;
+
+
+
+}
+#principal_select_clientes_cadastrados{
+  width: 1200px;
+  height: 600px;
+  margin: auto;
+  overflow: auto;
+
+
+}
+.opcoes_cliente{
+  width: 170px;
+  height: 50px;
+
+  float: left;
+  margin-left: 20px;
+
+
+}
+
+
+/*FORMATAÇÃO DA PÁGINA DE GERENCIAR FALE CONOSCO*/
+
+#section_geerenciar_fale_conosco{
+margin: auto;
+width: 1200px;
+margin-top: 20px;
+height: 800px;
+
+
+}
+
+#principal_fale_conosco{
+margin: auto;
+width: 1000px;
+height: 800px;
+
+
+
+
+}
+
+#select_fale_conosco{
+  width: 400px;
+    height: 800px;
+  position: absolute;
+  margin-top: 20px;
+  overflow: auto;
+
+
+
+}
+
+#formularios_fale_conosco{
+
+  width: 370px;
+  margin-left: 10px;
+  float: left;
+  height: 200px;
+  border-bottom: 1px solid #000;
+  margin-bottom: 30px;
+  margin-right: 10px;
+  border-radius: 5px;
+
+
+}
+#formularios_fale_conosco h1{
+text-align: center;
+color:#000;
+font-size: 30px;
+opacity: 1;
+font-family: Calibri;
+margin-top: 50px;
+
+}
+#formularios_fale_conosco p{
+  text-align: center;
+  color:#000;
+  font-size: 20px;
+  opacity: 0.7;
+  font-family: Calibri;
+
+
+
+}
+
+::-webkit-scrollbar {
+    margin-right: 5px;
+
+	border-radius: 6px;
+    width: 12px;
+}
+::-webkit-scrollbar-track {
+    box-shadow: 0 0 2px rgba(0,0,0,0.3);
+}
+::-webkit-scrollbar-thumb {
+    border: 1px #eee solid;
+    border-radius: 12px;
+    background: #708090;
+    box-shadow: 0 0 8px rgba(0,0,0,0.3) inset;
+    -webit-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}
+::-webkit-scrollbar-thumb:window-inactive {
+    background: #bbb;
+    box-shadow: 0 0 8px rgba(0,0,0,0.3) inset;
+}
+::-webkit-scrollbar-thumb:hover {
+	background: #778899;
+}
+
+
+#principal_detalhes_fale_conosco{
+  width: 600px;
+  height: 600px;
+
+  margin-left: 400px;
+  position: absolute;
+  margin-top: 100px;
+
+}
+.input_detalhes_fale{
+  width: 600px;
+  height: 80px;
+  border: 0;
+  margin-bottom: 30px;
+  font-family: Calibri;
+  font-size: 30px;
+  color: #000;
+border-radius: 10px;
+  text-align: center;
+  border: 1px solid #000;
+
+}
+
+#input_detalhes_fale_obs{
+  width: 600px;
+  height: 270px;
+  border: 0;
+  margin-bottom: 20px;
+  font-family: Calibri;
+  font-size: 30px;
+  color: #000;
+  border-radius: 10px;
+  text-align: center;
+  border: 1px solid #000;
+
+
+}
+
+.opt_fale_conosco{
+width: 370px;
+height: 200px;
+background-color: rgba(215, 222, 217, 0.7);
+position: absolute;
+margin-top: -130px;
+opacity: 0;
+transition: 1s;
+
+}
+#formularios_fale_conosco:hover .opt_fale_conosco{
+  opacity: 1;
+  transition: 1s;
+
+
+
+
+}
+.excluir_fale_conosco{
+width: 100px;
+height: 100px;
+position: absolute;
+margin-left: 80px;
+margin-top: 80px;
+transition: 1s;
+
+
+}
+.verificar_fale_conosco{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  margin-left: 250px;
+  margin-top: 80px;
+
+
+
+
+}
+.excluir_fale_conosco:hover{
+    box-shadow: 1px;
+    transition: 1s;
+
+
+
+}
+.verificar_fale_conosco img{
+width: 35px;
+height: 35px;
+margin-top: 10px;
+
+
+}
+.excluir_fale_conosco img{
+width: 50px;
+height: 50px;
+
+
+}
+
+/*FORMATAÇÃO DA PÁGINA DE CORES E ASPECTOS*/
+
+
+#section_cores_aspectos{
+  width: 1200px;
+    height: 1750px;
+  margin: auto;
+  margin-top: 20px;
+
+}
+#pricipal_cores_e_aspectos{
+
+  width: 1200px;
+  height: 1240px;
+  margin: auto;
+  float: left;
+  border-bottom: 1px solid #000;
+  margin-bottom: 10px;
+
+}
+.select_pontos_mtf_reservas{
+  width: 80px;
+  height: 50px;
+
+  position: absolute;
+  margin-left: 570px;
+  background-color: #DCDCDC	;
+
+
+
+}
+.select_pontos_mtf_reservas p{
+color: #000;
+font-family: Calibri;
+font-weight: bold;
+text-align: center;
+font-size: 18px;
+margin-top: 12px;
+
+
+}
+.select_pontos_mtf_comentarios{
+  width: 80px;
+  height: 50px;
+
+  position: absolute;
+  margin-left: 570px;
+  margin-top: 80px;
+  background-color: #DCDCDC	;
+
+
+
+}
+.select_pontos_mtf_comentarios p{
+  color: #000;
+  font-family: Calibri;
+  font-weight: bold;
+  text-align: center;
+  font-size: 18px;
+  margin-top: 12px;
+
+
+}
+#pricipal_mtf_pontos{
+  width: 1200px;
+  height: 500px;
+  margin: auto;
+  float: left;
+  margin-top: 50px;
+
+
+
+
+}
+#txt_cores_aspectos{
+width: 500px;
+height: 50px;
+margin: auto;
+margin-bottom: 20px;
+
+
+
+
+}
+
+#txt_cores_aspectos p{
+  font-family: Calibri;
+  font-size: 30px;
+  color: #000;
+  opacity: 0.8;
+  text-align: center;
+
+
+
+
+}
+
+#txt_cores_aspectos_rodape{
+width: 500px;
+height: 50px;
+margin: auto;
+margin-bottom: 20px;
+margin-top: 360px;
+position: absolute;
+margin-left: 360px;
+
+
+
+
+
+}
+
+#txt_cores_aspectos_rodape p{
+  font-family: Calibri;
+  font-size: 30px;
+  color: #000;
+  opacity: 0.8;
+  text-align: center;
+
+
+
+
+}
+#principal_cores_produtos{
+  width: 1200px;
+  height: 280px;
+  position: absolute;
+border-bottom: 1px solid #000;
+  margin-top: 30px;
+
+}
+#principal_cores_rodape{
+  width: 1200px;
+  height: 280px;
+  position: absolute;
+border-bottom: 1px solid #000;
+  margin-top: 500px;
+
+}
+
+#input_cor{
+width: 300px;
+height: 60px;
+border: 0;
+margin-left: 300px;
+background-color:	#D3D3D3;
+border-radius: 10px;
+font-family: Calibri;
+font-size: 25px;
+text-align: center;
+
+}
+#h2_input_cor{
+margin-left: 300px;
+margin-bottom: 10px;
+font-family: Calibri;
+opacity: 0.8;
+color: #000;
+font-size: 20px;
+
+}
+
+#div_btn_salvar_cor_preco_produto{
+width: 100px;
+height: 100px;
+background-color: transparent;
+position: absolute;
+margin-left: 800px;
+margin-top: -50px;
+
+
+
+
+}
+#div_btn_salvar_cor_preco_produto button{
+width: 50px;
+height: 50px;
+background-color: transparent;
+border: 0;
+
+
+
+}
+#img_save_color{
+  width: 50px;
+  height: 50px;
+
+
+}
+#principal_img_template{
+width: 600px;
+height: 150px;
+position: absolute;
+margin-top: 950px;
+margin-left: 300px;
+
+}
+#txt_image_template{
+  width: 500px;
+  height: 50px;
+margin-top: 830px;
+margin-left: 360px;
+position: absolute;
+margin-left:
+
+}
+#txt_image_template p{
+  font-family: Calibri;
+  font-size: 30px;
+  color: #000;
+  opacity: 0.8;
+  text-align: center;
+}
+#txt_pontos_mtf_cliente{
+  width: 500px;
+  height: 50px;
+margin-left: 360px;
+
+
+}
+#txt_pontos_mtf_cliente p{
+  font-family: Calibri;
+  font-size: 30px;
+  color: #000;
+  opacity: 0.8;
+  text-align: center;
+
+}
+#div_pontos_cliente{
+  width: 800px;
+  height: 400px;
+
+margin-left: 210px;
+margin-top: 40px;
+}
+.pontos_cliente{
+width: 800px;
+height: 50px;
+float: left;
+margin-bottom: 30px;
+
+
+
+}
+.pontos_cliente h1{
+  margin-left: 100px;
+  margin-top: -50px;
+  font-family: Calibri;
+  color: #000;
+  opacity: 0.7;
+  font-size: 30px;
+
+
+}
+
+.pontos_cliente input{
+  width:80px;
+  height: 50px;
+  background-color: #DCDCDC	;
+  font-family: Calibri;
+  font-size: 30px;
+  text-align: center;
+  border: 0;
+
+
+}
+#div_botao_mtf_pontos{
+width: 500px;
+height: 60px;
+position: absolute;
+margin-left: 150px;
+margin-top: 90px;
+
+
+
+}
+#div_botao_mtf_pontos input{
+  width: 500px;
+  height: 60px;
+  background-color: #C0C0C0;
+  font-family: Calibri;
+  font-size: 30px;
+  border: 0;
+  transition: 1s;
+
+}
+
+#div_botao_mtf_pontos:hover input{
+color:#fff;
+transition: 1s;
+
+
+
+}
+
+/*GERENCIAR USUÁRIOS CMS*/
+#section_gerenciar_usuarios{
+  width: 1200px;
+  height: 1550px;
+  margin: auto;
+  margin-top: 20px;
+
+}
+
+#principal_usuarios{
+  width: 1200px;
+  height:850px;
+  margin: auto;
+  border-bottom: 2px solid #000;
+
+}
+#principal_niveis_usuarios{
+  width: 1200px;
+  height:700px;
+  margin: auto;
+  margin-top: 150px;
+
+}
+#principal_niveis_usuarios h1{
+  margin: auto;
+  text-align: center;
+  font-family: Calibri;
+  font-size: 30px;
+  color: #000;
+  opacity: 0.8;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+#add_nivel_usuario{
+width: 800px;
+margin: auto;
+height: 140px;
+margin-top: 20px;
+
+}
+#listar_niveis_usuario{
+width: 500px;
+height: 400px;
+
+margin: auto;
+margin-top: 30px;
+overflow: auto;
+
+
+}
+.listar_niveis_usuario_id{
+  width: 500px;
+  height: 50px;
+  margin: auto;
+  margin-top: 40px;
+  overflow: auto;
+  border-bottom: 1px solid #000;
+
+
+}
+.nome_nivel_usuario{
+width: 280px;
+height: 40px;
+margin-top: 5px;
+float: left;
+
+
+
+}
+.nome_nivel_usuario p{
+  font-family: Calibri;
+  font-size: 30px;
+  color: #000;
+  opacity: 0.8;
+  text-align: center;
+
+
+
+}
+.opt_nivel_usuario{
+width: 180px;
+height: 50px;
+float: left;
+margin-left: 20px;
+
+
+}
+.opt_nivel_usuario_opt{
+  width: 50px;
+  height: 50px;
+  float: left;
+  margin-left: 40px;
+
+}
+.opt_nivel_usuario_opt img{
+width: 50px;
+height: 45px;
+
+}
+#input_nome_nivel_usuario{
+  width: 500px;
+  margin-left: 150px;
+  height: 40px;
+  border: 1;
+  margin-bottom: 30px;
+  font-family: Calibri;
+  font-size: 20px;
+  color: #000;
+
+}
+#btn_salvar_nivel_usuario{
+  width: 503px;
+  margin-left: 150px;
+  height: 40px;
+  border: 0;
+  margin-bottom: 30px;
+  font-family: Calibri;
+  font-size: 20px;
+  color: #000;
+
+
+}
+
+#principal_usuarios h1{
+margin: auto;
+text-align: center;
+font-family: Calibri;
+font-size: 30px;
+color: #000;
+opacity: 0.8;
+
+
+
+}
+#add_usuarios{
+  width: 800px;
+  height: 300px;
+  margin: auto;
+  margin-top: 40px;
+
+
+
+
+}
+#add_usuarios select{
+width: 500px;
+margin-left: 150px;
+height: 40px;
+border: 1;
+margin-bottom: 30px;
+font-family: Calibri;
+font-size: 20px;
+color: #000;
+text-align: center;
+border-radius: 5px;
+
+}
+.inputs_gerenciar_usuarios{
+  width: 500px;
+  margin-left: 150px;
+  height: 40px;
+  border: 1;
+  margin-bottom: 30px;
+  font-family: Calibri;
+  font-size: 20px;
+  color: #000;
+
+}
+#btn_salvar_usuarios_cms{
+  width: 503px;
+  margin-left: 150px;
+  height: 40px;
+  border: 0;
+  margin-bottom: 30px;
+  font-family: Calibri;
+  font-size: 20px;
+  color: #000;
+
+
+
+
+}
+#listar_usuarios_cms{
+width: 800px;
+height: 310px;
+margin: auto;
+margin-top: 130px;
+overflow: auto;
+
+
+}
+.listar_usuarios_cms_id{
+width: 800px;
+height: 50px;
+margin: auto;
+margin-top: 20px;
+overflow: auto;
+border-bottom: 1px solid #000;
+
+}
+.nome_usuario{
+width: 295px;
+height: 30px;
+margin-top: 10px;
+float: left;
+margin-right: 30px;
+
+}
+.nome_usuario p{
+font-family: Calibri;
+font-size: 24px;
+color: #000;
+opacity: 0.8;
+
+
+
+}
+.opt_usuarios_cms{
+width: 150px;
+height: 50px;
+float: left;
+
+
+
+
+
+}
+.excluir_usuario_cms{
+width: 40px;
+height: 40px;
+
+float: left;
+margin-left: 30px;
+margin-top: 5px;
+
+
+}
+.excluir_usuario_cms img{
+width: 40px;
+height: 40px;
+
+
+}
+#listar_usuarios_cms h1{
+  margin: auto;
+  text-align: center;
+  font-family: Calibri;
+  font-size: 30px;
+  color: #000;
+  opacity: 0.8;
+
+
+
+}
+/*GERENCIAR PROMOÇÕES*/
+#section_gerenciar_promocoes{
+width: 1200px;
+height: 700px;
+margin-top: 20px;
+margin: auto;
+
+
+}
+#principal_promocoes{
+width: 1200px;
+height: 700px;
+margin: auto;
+
+
+}
+#principal_promocoes h1{
+width: auto;
+text-align: center;
+font-family: Calibri;
+font-size: 30px;
+color:#000;
+opacity: 0.8;
+margin-top: 30px;
+opacity: 0.7;
+
+
+
+
+}
+#add_banner_promocao{
+width: 500px;
+height: 100px;
+position: absolute;
+margin-left: 400px;
+margin-top: 30px;
+
+}
+#select_banners_promocao{
+width: 500px;
+height: 400px;
+position: absolute;
+margin-top: 200px;
+margin-left: 395px;
+overflow: auto;
+}
+.select_banner_id{
+width: 500px;
+height: 90px;
+margin-bottom: 30px;
+border-bottom: 1px solid #000;
+
+}
+.img_banner_promocao{
+width: 150px;
+height: 80px;
+
+float: left;
+margin-right: 40px;
+border: 1px solid #000;
+
+}
+.img_banner_promocao img{
+width: 150px;
+height: 80px;
+
+
+
+
+
+}
+
+.opt_promocoes{
+width: 300px;
+height: 80px;
+
+margin-left: 180px;
+position: absolute;
+
+}
+.excluir_promocao{
+width: 80px;
+height: 80px;
+float: left;
+margin-left: 20px;
+
+
+}
+.excluir_promocao img{
+width: 50px;
+height: 50px;
+margin-top: 18px;
+margin-left: 10px;
+opacity: 0.7;
+
+
+
+}
+
+/*GERECIAR CONHEÇA SEU DESTINO*/
+#section_gerenciar_conheca_seu_destino{
+width: 1200px;
+height: 600px;
+margin: auto;
+margin-top: 20px;
+
+
+}
+#principal_conheca_seu_destino{
+width: 1200px;
+height: 800px;
+margin-left: 100px;
+overflow: auto;
+
+
+
+
+
+}
+#principal_conheca_seu_destino h1{
+font-family: Calibri;
+font-size: 30px;
+margin: auto;
+text-align: center;
+color: #000;
+opacity: 0.6;
+
+
+
+
+}
+.contanier_comentarios{
+width: 800px;
+height: 300px;
+margin: auto;
+margin-top: 70px;
+overflow: auto;
+
+
+}
+.comentarios_conheca_seu_destino_id{
+width: 800px;
+height: 200px;
+
+margin-bottom: 40px;
+border-bottom: 1px solid #000;
+
+
+
+
+}
+.nome_comentario{
+width: 330px;
+height: 30px;
+
+float: left;
+
+
+
+}
+.nome_comentario p{
+font-family: Calibri;
+font-size: 25px;
+text-align: center;
+color: #000;
+opacity: 0.8;
+font-weight: bold;
+
+}
+.nome_comentario_lugar{
+width: 250px;
+height: 30px;
+
+float: left;
+
+
+
+}
+.nome_comentario_lugar p{
+  font-family: Calibri;
+  font-size: 25px;
+  text-align: center;
+  color: #000;
+  opacity: 0.8;
+  font-weight: bold;
+
+}
+.nome_comentario_sobre{
+width: 220px;
+height: 30px;
+float: left;
+
+
+
+}
+.nome_comentario_sobre p{
+font-style: italic;
+color: #000;
+font-family: Calibri;
+text-align: center;
+font-size: 20px;
+
+
+
+}
+.comentario_conheca_id{
+width: 600px;
+height: 100px;
+float: left;
+margin-top: 40px;
+overflow: auto;
+
+}
+.comentario_conheca_id p{
+
+font-size: 18px;
+font-family: Calibri;
+text-align: justify;
+color: #000;
+font-weight: lighter;
+
+
+}
+
+.aceitar_comentario{
+width: 60px;
+height: 60px;
+float: left;
+margin-left: 60px;
+margin-top: 10px;
+
+
+
+}
+.aceitar_comentario img{
+width: 40px;
+height: 40px;
+opacity: 0.6;
+margin-top: 10px;
+
+
+
+}
+.excluir_comentario{
+width: 60px;
+height: 60px;
+float: left;
+margin-top: 40px;
+margin-left: 60px;
+}
+.excluir_comentario img{
+width: 40px;
+height: 40px;
+opacity: 0.6;
+
+}
+
+/*PÁGINA DE ESTATÍSTICAS*/
+#section_estatisticas{
+width: 1200px;
+height: 800px;
+margin: auto;
+margin-top: 20px;
+}
+#principal_estatisticas{
+width: 1200px;
+height: 800px;
+margin: auto;
+
+
+}
+
+#principal_estatisticas h1{
+font-family: Calibri;
+font-size: 30px;
+margin: auto;
+text-align: center;
+color: #000;
+opacity: 0.7;
+
+}
+.barra-fondo{
+font-family: Calibri;
+font-size: 18px;
+text-align: justify;
+font-style: italic;
+color: #000;
+opacity: 0.8;
+
+}
+.barras{
+margin-bottom: 30px;
+margin-top: 10px;
+list-style: none;
+border: 1px solid #000;
+
+}
+
+#ul_estatisticas{
+margin-top: 50px;
+
+}
+@media print {
+    body * {
+        background: #000    !important;
+        visibility: hidden  !important;
+        position:   static  !important;
+    }
+    .area_print, .area_print * {
+        visibility: visible !important;
+    }
+    .area_print {
+        left:     0        !important;
+        top:      0        !important;
+        width:    auto     !important;
+        height:   auto     !important;
+        margin:   0        !important;
+        padding:  0        !important;
+        background: #000    !important;
+    }
+}
+#btn_imprimir_estatisticas{
+position: absolute;
+width: 120px;
+height: 30px;
+border: 1px solid #000;
+margin-top: -120px;
+background-color: #fff;
+
+
+
+}
+
+
+/*RESERVAS SOLICITADAS*/
+#principal_reservas_solicitadas{
+width: 1200px;
+height: 720px;
+
+position: absolute;
+margin-left: 500px;
+margin-top: 200px;
+
+}
+
+#principal_reservas_solicitadas h1{
+margin: auto;
+font-family: Calibri;
+font-size: 25px;
+text-align: center;
+color:#000;
+opacity: 0.7;
+
+
+
+}
+#select_reservas_solicitadas{
+width: 1200px;
+height: 650px;
+
+margin: auto;
+
+margin-top: 90px;
+
+}
+
+.select_reservas_solicitadas_id{
+width: 1200px;
+height: 80px;
+border-bottom: 1px solid #000;
+margin-bottom: 30px;
+
+}
+
+.carac_reserva_solictida{
+width: 900px;
+height: 60px;
+
+float: left;
+
+}
+
+.opt_reservas{
+width: 300px;
+height: 60px;
+
+float: left;
+
+
+}
+.opt_reservas_id{
+width: 195px;
+height: 40px;
+margin-top: 10px;
+float: left;
+margin-right: 30px;
+
+
+}
+.opt_reservas_id p{
+font-family: Calibri;
+text-align: center;
+color: #000;
+opacity: 1;
+margin-top: 10px;
+font-size: 20px;
+
+}
+.aceitar_reserva{
+width: 120px;
+height: 40px;
+margin-top: 10px;
+float: left;
+margin-right: 20px;
+
+margin-left: 20px;
+
+}
+.aceitar_reserva p{
+  font-family: Calibri;
+  text-align: center;
+  color: #000;
+  opacity: 0.7;
+  margin-top: 10px;
+  color: #2E8B57;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+.recusar_reserva{
+width: 120px;
+height: 40px;
+margin-top: 10px;
+float: left;
+margin-right: 20px;
+
+
+}
+.recusar_reserva p{
+  font-family: Calibri;
+  text-align: center;
+  color: #000;
+  opacity: 0.7;
+  margin-top: 10px;
+  color: #FF0000;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+.a_reservas:link{
+
+text-decoration: none;
+
+
+}
+#open_modal{
+
+display: none;
+
+
+}
+
+.status_reserva_blabla{
+width: 20px;
+height: 20px;
+
+}
+.status_reserva_blabla img{
+width: 25px;
+height: 25px;
+position: absolute;
+
+}
+
+#input_pesquisa_reserva{
+border: 0;
+border-bottom: 2px solid #000;
+width: 500px;
+height: 50px;
+
+}
+
+#btn_buscar_reserva{
+width: 30px;
+height: 10px;
+background-color: transparent;
+border: 0;
+
+}
+#btn_buscar_reserva img{
+width: 30px;
+height: 30px;
+
+}
+#area_pesquisa_reserva{
+width: 600px;
+height: 50px;
+margin-top: -170px;
+position: absolute;
+margin-left: 300px;
+}
